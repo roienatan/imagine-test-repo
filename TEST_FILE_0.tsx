@@ -1,1 +1,6 @@
-another test file_4
+
+// This hook is to fetch the feed from out BE server
+export const useFeed() {
+  
+  
+}
