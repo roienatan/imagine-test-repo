@@ -4,10 +4,14 @@ export const useFeed() {
 
   useEffect(() => {
       // need to figure out the BE endpoint
+    const fetch = async () => {
+      
+    }
+
+    fetch()
   }, [])
 
   return {
-
     <div></div>
   }
   
